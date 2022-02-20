@@ -7,25 +7,19 @@
   font-family: Cambay;
   font-weight: 700;
   font-size: 3.75rem;
-  margin: 60px auto 0;
-}
-
-.u-section-1 .u-text-2 {
-  width: 749px;
-  font-size: 1.125rem;
-  margin: 20px auto 0;
+  margin: 112px auto 0;
 }
 
 .u-section-1 .u-shape-1 {
   height: 219px;
-  margin-top: 208px;
+  margin-top: 228px;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-list-1 {
   grid-template-rows: repeat(1, auto);
   width: 1140px;
-  margin: -387px auto 0;
+  margin: -387px auto 60px;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -49,14 +43,14 @@
   margin-left: 0;
 }
 
-.u-section-1 .u-text-3 {
+.u-section-1 .u-text-2 {
   letter-spacing: normal;
   font-size: 1.875rem;
   font-weight: 700;
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-text-4 {
+.u-section-1 .u-text-3 {
   margin: 20px 0 0;
 }
 
@@ -84,14 +78,14 @@
   margin-left: 0;
 }
 
-.u-section-1 .u-text-5 {
+.u-section-1 .u-text-4 {
   letter-spacing: normal;
   font-size: 1.875rem;
   font-weight: 700;
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-text-6 {
+.u-section-1 .u-text-5 {
   margin: 20px 0 0;
 }
 
@@ -119,14 +113,14 @@
   margin-left: 0;
 }
 
-.u-section-1 .u-text-7 {
+.u-section-1 .u-text-6 {
   letter-spacing: normal;
   font-size: 1.875rem;
   font-weight: 700;
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-text-8 {
+.u-section-1 .u-text-7 {
   margin: 20px 0 0;
 }
 
@@ -137,19 +131,6 @@
   text-transform: uppercase;
   background-image: none;
   margin: 30px auto 0;
-}
-
-.u-section-1 .u-text-9 {
-  font-style: italic;
-  width: 368px;
-  margin: 29px auto 60px;
-}
-
-.u-section-1 .u-btn-4 {
-  border-style: none none solid;
-  font-weight: 400;
-  font-style: italic;
-  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -181,12 +162,6 @@
 @media (max-width: 991px) {
    .u-section-1 {
     min-height: 1505px;
-  }
-
-  .u-section-1 .u-text-2 {
-    width: auto;
-    margin-left: 50px;
-    margin-right: 50px;
   }
 
   .u-section-1 .u-list-1 {
@@ -253,12 +228,6 @@
     font-size: 2.25rem;
   }
 
-  .u-section-1 .u-text-2 {
-    width: 324px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   .u-section-1 .u-list-1 {
     width: 340px;
   }
@@ -276,9 +245,5 @@
   .u-section-1 .u-image-3 {
     height: 293px;
     margin-left: initial;
-  }
-
-  .u-section-1 .u-text-9 {
-    width: 340px;
   }
 }

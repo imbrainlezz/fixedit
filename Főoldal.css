@@ -45,25 +45,14 @@
   margin: 22px 0 0;
 }
 
-.u-section-1 .u-text-3 {
-  font-style: italic;
-  margin: 22px 0 0;
-}
-
 .u-section-1 .u-btn-1 {
-  border-style: none none solid;
-  font-style: italic;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
+  letter-spacing: 1px;
+  font-size: 0.9375rem;
+  border-style: none;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 0.9375rem;
-  background-image: none;
-  border-style: none;
-  margin: 30px 0 0;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  margin: 22px 0 0;
 }
 
 @media (max-width: 1199px) {
